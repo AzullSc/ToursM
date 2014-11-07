@@ -1,0 +1,17 @@
+<?php
+
+define('BASE_URL', 'http://localhost/biblioteca/');
+define('DEFAULT_CONTROLLER', 'index');
+define('DEFAULT_LAYOUT', 'default');
+
+define('APP_NAME', 'SIBFIR V.0.5');
+define('APP_SLOGAN', 'FIR');
+define('APP_COMPANY', 'Los choclitos');
+
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'biblioteca');
+define('DB_CHAR', 'utf8');
+
+?>
